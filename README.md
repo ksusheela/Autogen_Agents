@@ -1,7 +1,9 @@
-# Autogen_Agents
+
 
 # Project: AI Food Debate – Pizza Agent vs. Sushi Agent using AutoGen Framework
-Description:
+
+## Description:
+
 Developed an AI-driven multi-agent system using the AutoGen framework to evaluate the health benefits of different food choices. The project involved designing two autonomous agents—Pizza Agent and Sushi Agent—each programmed to advocate for their respective food items based on nutritional values, ingredients, and health impact. A Judge Agent was implemented to analyze arguments and decide which option is healthier based on predefined health metrics.
 
 ## Key Responsibilities:
